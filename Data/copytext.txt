@@ -1,0 +1,3 @@
+Cust_id,first_name,last_name,age,email_id
+7,Gee,Etch,25,ge@xyz.com
+8,Jay,Kay,35,jk@xyz.com
